@@ -13,4 +13,4 @@ Requisitos mínimos:
 4 - Salvar os dados localmente (UserDefaults, CoreData, ou outro método simples).
 
 
-/Users/paulodaniloconceicaolima/Desktop/Captura de Tela 2025-10-26 às 23.36.14.png
+![Uploading Captura de Tela 2025-10-26 às 23.36.14.png…]()
